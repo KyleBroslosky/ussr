@@ -1,4 +1,0 @@
-<first>
-{
-image-url: https://cdn.discordapp.com/attachments/619602414508441620/619788346599800857/2.png;
-}
